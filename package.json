@@ -1,0 +1,19 @@
+{
+  "name": "webpackModuleStrip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.21.3",
+    "@babel/generator": "^7.21.3",
+    "@babel/parser": "^7.21.3",
+    "@babel/types": "^7.21.3",
+    "vm2": "^3.9.14"
+  }
+}
